@@ -214,10 +214,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 <div align="center">
+
 **Ray Rafael M. Avila**  
 [![Email](https://img.shields.io/badge/Email-avilarayrafael8%40gmail.com-red?style=flat-square&logo=gmail)](mailto:avilarayrafael8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RyuTempest-black?style=flat-square&logo=github)](https://github.com/RyuTempest)
 
 </div>
 
+---
 
