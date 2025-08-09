@@ -18,7 +18,7 @@ The **Academic Documents Request Scheduling System** is a platform designed to s
   - `twilio/sdk` (optional SMS integration)
   - `google/apiclient` (optional future integrations)
   - `phpmailer/phpmailer` (email for password reset)
-- **Web Server**: Apache or Nginx (Apache with PHP module recommended)
+
 
 ## Installation
 1. Clone the repository:
@@ -76,6 +76,7 @@ For questions or feedback, please contact:
 - **Name**: Ray Rafael M. Avila
 - **Email**: avilarayrafael8@gmail.com
 - **GitHub**: [RyuTempest](https://github.com/RyuTempest)
+
 
 
 
