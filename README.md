@@ -23,7 +23,7 @@ The **Academic Documents Request Scheduling System** is a platform designed to s
 Below are placeholders for screenshots of the website. Replace these with actual images of your application.
 
 ### Login Page
-![Login Page Placeholder](https://photos.google.com/album/AF1QipNdt1l0eXk-HBgOBvAFSFlqzQUXxBgEbjmNzC-l/photo/AF1QipP8UsZiKXO2wwZJ7rmsPxOWwSgHVf9KbfY-_IS-)
+![Login Page Placeholder](https://photos.fife.usercontent.google.com/pw/AP1GczPHMN5OR0Du_WDscHDVazn5j0Ab0LJhPQSzUjdto64DOuYci0wBwzth=w975-h465-s-no-gm?authuser=0)
 
 ### Request Form
 ![Request Form Placeholder](https://via.placeholder.com/800x400?text=Request+Form)
@@ -90,4 +90,5 @@ For questions or feedback, please contact:
 - **Name**: Ray Rafael M. Avila
 - **Email**: avilarayrafael8@gmail.com
 - **GitHub**: [RyuTempest](https://github.com/RyuTempest)
+
 
