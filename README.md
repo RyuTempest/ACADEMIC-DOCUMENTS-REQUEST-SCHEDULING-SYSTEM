@@ -11,10 +11,10 @@ The **Academic Documents Request Scheduling System** is a platform designed to s
 - **Reports**: Generate reports for administrative purposes.
 
 ## Technologies Used
-- **Frontend**: [e.g., HTML, CSS, JavaScript, React]
-- **Backend**: [e.g., Node.js, Express, PHP, Python]
-- **Database**: [e.g., MySQL, MongoDB, PostgreSQL]
-- **Other Tools**: [e.g., Git, Docker, APIs]
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: PHP
+- **Database**:MySQL
+- **Other Tools**: Git, APIs
 
 ## Installation
 1. Clone the repository:
@@ -72,4 +72,5 @@ For questions or feedback, please contact:
 - **Name**: Ray Rafael M. Avila
 - **Email**: avilarayrafael8@gmail.com
 - **GitHub**: [RyuTempest](https://github.com/RyuTempest)
+
 
