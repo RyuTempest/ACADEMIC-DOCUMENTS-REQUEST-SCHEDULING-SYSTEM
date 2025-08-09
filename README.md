@@ -70,7 +70,7 @@ The **Academic Documents Request Scheduling System** streamlines the traditional
 }
 ```
 
-## 🖼️ Application Screenshots
+## 🖼️ Screenshots
 
 <div align="center">
 
@@ -210,4 +210,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web development best practices
 - Inspired by the need for efficient academic administration
 - Special thanks to the open-source community
+
 
