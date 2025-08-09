@@ -69,6 +69,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or feedback, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: Ray Rafael M. Avila
+- **Email**: avilarayrafael8@gmail.com
 - **GitHub**: [RyuTempest](https://github.com/RyuTempest)
+
