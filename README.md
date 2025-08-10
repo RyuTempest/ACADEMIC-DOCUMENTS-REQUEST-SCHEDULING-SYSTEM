@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Project Logo](https://via.placeholder.com/150x150/007bff/ffffff?text=ADRSS)
+
 
 *A modern, efficient platform for managing academic document requests and scheduling*
 
@@ -210,5 +210,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web development best practices
 - Inspired by the need for efficient academic administration
 - Special thanks to the open-source community
+
 
 
